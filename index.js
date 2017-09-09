@@ -2,7 +2,7 @@ var Discord = require('discord.js');
 var bot = new Discord.Client();
 
 
-var Token = "MzU2MTk0Mjc5OTg0NzI2MDE2.DJXzSA.j9IJOGwwXNN1dSQW1r4IkM6lmEs";
+var Token = "";
 
 var frogfacts = [
     "Frogs don't need to drink the way we do: they absorb water through their permeable skin!",
